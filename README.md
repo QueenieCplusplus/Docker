@@ -13,10 +13,8 @@
 
 4.  cheers2019$ docker build -t doodle/cheers2019 .
 
-技術解釋：
+    容器能夠解決軟體移植和程式間去耦合性的問題，並且能全權控制容器，包含容器對資源消耗的限制。
 
-容器能夠解決軟體移植和程式間去耦合性的問題，並且能全權控制容器，包含容器對資源消耗的限制。
-如下做到快速組建和部署。
 
 
           Usage:  docker build [OPTIONS] PATH | URL | -
@@ -57,6 +55,8 @@
     
 5. cheers2019$ docker run -it --rm queens/cheers2019
 
+透過容器技術的封裝，藉此移植應用程式於跨平台上運行。
+
 # Ship, 移植
 
 6. cheers2019$ docker login
@@ -68,6 +68,9 @@
           4092464d0de4: Pushed (12 碼)
           
           latest: digest: sha256:6fbe80f193
+          
+# Deploy, 部署
+
 
 
 
