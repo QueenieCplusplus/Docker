@@ -9,9 +9,15 @@
 
 3. ~$ cd doodle/cheers2019
 
-# Build 組件
+# Build 組建
 
 4.  cheers2019$ docker build -t doodle/cheers2019 .
+
+技術解釋：
+
+容器能夠解決軟體移植和程式間去耦合性的問題，並且能全權控制容器，包含容器對資源消耗的限制。
+如下做到快速組建和部署。
+
 
           Usage:  docker build [OPTIONS] PATH | URL | -
 
