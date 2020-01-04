@@ -7,6 +7,8 @@
 
 3. ~$ cd doodle/cheers2019
 
+# Build 組件
+
 4.  cheers2019$ docker build -t doodle/cheers2019 .
 
           Usage:  docker build [OPTIONS] PATH | URL | -
@@ -43,7 +45,11 @@
     
     Successfully tagged queens/cheers2019:latest
     
+# Runtime, 運行
+    
 5. cheers2019$ docker run -it --rm queens/cheers2019
+
+
 
 
 
