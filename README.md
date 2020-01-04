@@ -51,6 +51,10 @@
 
 # Ship, 移植
 
+6. cheers2019$ docker login
+
+7. cheers2019$ docker push queens/cheers2019
+
 
 
 
