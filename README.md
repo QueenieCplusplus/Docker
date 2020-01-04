@@ -43,7 +43,9 @@
     
     Successfully tagged queens/cheers2019:latest
     
-  
+5. cheers2019$ docker run -it --rm queens/cheers2019
+
+
 
     
     
