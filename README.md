@@ -9,9 +9,8 @@
                                   
                                   
                              API (Restful) 
-                                  
-                                  
-                                  
+                                                                 
+                                 
                          Docker Server (Daemon)
                          
  
