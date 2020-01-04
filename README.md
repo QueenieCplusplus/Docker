@@ -49,7 +49,12 @@
 
           Successfully built e17fa186f882
 
-          Successfully tagged queens/cheers2019:latest
+          Successfully tagged queens/cheers2019:latest 
+>>>
+
+        Namespace/Repository: ID
+           queens/cheers2019:latest 
+         (Company/AppName: version)
     
 # Runtime, 運行
     
