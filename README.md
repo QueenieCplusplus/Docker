@@ -76,6 +76,8 @@
           
 # Deploy, 部署
 
+8. cheers2019$ docker run -d -p 80:80 --name <appname>
+
 
 
 
