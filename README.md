@@ -53,7 +53,13 @@
 
 6. cheers2019$ docker login
 
-7. cheers2019$ docker push queens/cheers2019
+7. cheers2019$ docker push queens/cheers2019 // target
+
+          The push refers to repository [docker.io/queens/cheers2019]
+          
+          4092464d0de4: Pushed (12 碼)
+          
+          latest: digest: sha256:6fbe80f193
 
 
 
