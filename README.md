@@ -1,7 +1,9 @@
 # Docker
 容器管理工具
 
-1. install
+1. install docker for mac & sign up an account 
+
+   https://hub.docker.com/r/queens/cheers2019
 
 2. git clone https://github.com/docker/doodle.git
 
